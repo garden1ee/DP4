@@ -1,5 +1,6 @@
 Kindly leave brief file description here:
 
-index.html - start page with service description
+index.html - start page with service description (with index.css, index.js)
 
-index.css - style for index.html
+main.html - top navigation bar (with main.css, main.js)
+
