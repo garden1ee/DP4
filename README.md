@@ -4,3 +4,6 @@ index.html - start page with service description (with index.css, index.js)
 
 main.html - top navigation bar (with main.css, main.js)
 
+messages.html - 
+
+mypage.html - 
